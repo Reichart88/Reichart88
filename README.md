@@ -7,3 +7,9 @@ Finished Vyatka State University information systems and technologies faculty as
 process automation engineer in industry.
 
 Works with Astra Linux OS, administrating it and linux servers.
+Finished some educational courses on Linux administration.
+
+My key skills:
+- DHCP, TCP/IP stek,
+- AD,
+- others, 

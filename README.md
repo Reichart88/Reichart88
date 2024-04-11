@@ -10,6 +10,13 @@ Works with Astra Linux OS, administrating it and linux servers.
 Finished some educational courses on Linux administration.
 
 My key skills:
-- DHCP, TCP/IP stek,
-- AD,
-- others, 
+- Working with the TCP/IP stack;
+- Hypervisors;
+- AD;
+- Proxmox VE and Zabbix;
+- Administrating Windows and family ofLinux OS.
+
+My softskills are:
+- C#;
+- PostgreSQL and MySQL;
+- 1C.
